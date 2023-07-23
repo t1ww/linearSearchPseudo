@@ -1,0 +1,2 @@
+# linearSearchPseudo
+ Pseudo code
